@@ -4,11 +4,11 @@
 
 ## ⌨️ Teclas para STD
 
-* **`Z` y `X`** $\rightarrow$ Mueven la manito izquierda cuando jugás
+* **`Z` y `X`** → Mueven la manito izquierda cuando jugás
 
-* **`C`** $\rightarrow$ Bongo se pone lentes cuando dibujás
+* **`C`** → Bongo se pone lentes cuando dibujás
 
-* **`V`** $\rightarrow$ Bongo saluda
+* **`V`** → Bongo saluda
 
 ## ⚙️ Configuración para que funcione
 
